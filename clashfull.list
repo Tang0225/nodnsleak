@@ -1,10 +1,10 @@
 ;1、域名组
-ruleset=➡️ 国内,https://raw.githubusercontent.com/BRSBSC/nodnsleak/refs/heads/main/SourceIP.list
+ruleset=➡️ 国内,https://raw.githubusercontent.com/Tang0225/nodnsleak/refs/heads/main/SourceIP.list
 ruleset=REJECT,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Adobe/Adobe.list
 ;ruleset=REJECT,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Advertising/Advertising.list
 ;ruleset=REJECT,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AdvertisingLite/AdvertisingLite.list
-ruleset=✨ AI,https://raw.githubusercontent.com/brsbsc/clash/refs/heads/main/list/AI.list
-ruleset=✨ AI,https://raw.githubusercontent.com/brsbsc/clash/refs/heads/main/list/AI2.list
+ruleset=✨ AI,https://raw.githubusercontent.com/Tang0225/clash/refs/heads/main/list/AI.list
+ruleset=✨ AI,https://raw.githubusercontent.com/Tang0225/clash/refs/heads/main/list/AI2.list
 ruleset=🙋 Telegram,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
 ruleset=📘 GitHub,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GitHub/GitHub.list
 ruleset=👯‍♂️ TikTok,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/TikTok/TikTok.list
@@ -18,8 +18,8 @@ ruleset=🕹️ Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_scr
 ruleset=🕹️ Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/UBI/UBI.list
 ruleset=🕹️ Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sony/Sony.list
 ruleset=🕹️ Game,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list
-ruleset=🌍 国外,https://raw.githubusercontent.com/brsbsc/clash/refs/heads/main/list/Check.list
-ruleset=🌍 国外,https://raw.githubusercontent.com/brsbsc/clash/refs/heads/main/list/Proxy.list
+ruleset=🌍 国外,https://raw.githubusercontent.com/Tang0225/clash/refs/heads/main/list/Check.list
+ruleset=🌍 国外,https://raw.githubusercontent.com/Tang0225/clash/refs/heads/main/list/Proxy.list
 ruleset=🌍 国外,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list
 ruleset=➡️ 国内,[]FINAL
 
